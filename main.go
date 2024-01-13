@@ -80,11 +80,3 @@ func main() {
 	}
 }
 
-//First we will have to create a simple server✅
-//Setup a database for the project✅
-//connect to the database✅
-
-//create routes and handlers...
-//1. create todo✅
-//2. update todo✅
-//3. delete todo
